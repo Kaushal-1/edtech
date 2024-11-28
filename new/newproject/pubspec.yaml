@@ -1,0 +1,20 @@
+name: edtech_platform
+description: A Flutter app for the EdTech platform
+
+publish_to: 'none' # Remove this line if you are publishing your app
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^0.13.3
+  provider: ^6.0.1
+  shared_preferences: ^2.0.7
+  flutter_secure_storage: ^5.0.2
+  # Add any additional dependencies required for the project
+
+flutter:
+  uses-material-design: true
+
+environment:
+  sdk: '^3.5.0'
