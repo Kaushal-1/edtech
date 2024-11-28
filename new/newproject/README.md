@@ -1,15 +1,3 @@
-# AI-Powered EdTech Platform
-## Overview
-The AI-Powered EdTech Platform is an advanced educational platform that provides users with an interactive and personalized learning experience. It includes features like posting notes, publishing research papers, writing blogs, and sharing photos and videos. It also leverages cutting-edge technologies such as AI, AR/VR, and gamification to enhance the learning experience.
-This project is a starting point for a Flutter application.
-
-## Features
-### **README.md**
-
-Here’s a detailed and professional `README.md` file for your project. It provides an overview of the project, setup instructions, and additional notes.
-
----
-
 # **AI-Powered EdTech Platform**
 
 ## **Overview**
@@ -37,8 +25,8 @@ The **AI-Powered EdTech Platform** is an advanced educational platform that prov
 
 6. **Real-Time Analytics**:
    - Tracks user progress and provides adaptive content delivery.
-
-
+     
+---
 
 ## Project Directory Structure
 
