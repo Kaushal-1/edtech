@@ -1,0 +1,30 @@
+name: edtech_platform
+description: A world's most advanced AI-based EdTech platform
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3 # For making API requests
+  provider: ^5.0.0 # For state management
+  jwt_decoder: ^2.0.1 # For decoding JWT tokens
+  flutter_secure_storage: ^5.0.2 # For secure storage of user tokens
+  flutter_staggered_grid_view: ^0.4.0 # For layout grids
+  image_picker: ^0.8.4 # For picking images from gallery or camera
+  # Add more dependencies as needed
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/videos/
